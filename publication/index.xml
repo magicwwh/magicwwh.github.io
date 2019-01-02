@@ -12,5 +12,32 @@
 	<atom:link href="https://wenhao1006.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Towards Interface-Driven COTS Binary Hardening</title>
+      <link>https://wenhao1006.github.io/publication/xu-18-feast/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wenhao1006.github.io/publication/xu-18-feast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEISMIC: SEcure In-lined Script Monitors for Interrupting Cryptojacks</title>
+      <link>https://wenhao1006.github.io/publication/wang-18-esorics/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wenhao1006.github.io/publication/wang-18-esorics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Flow Integrity</title>
+      <link>https://wenhao1006.github.io/publication/wang-17-ccs/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://wenhao1006.github.io/publication/wang-17-ccs/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
